@@ -11,7 +11,7 @@
 
 
 ## Neural Networks Lab 🥅
-### Approximate idea of Experiments for Machine Learning folder. Although, the doc of detailed problem statements is also added in the folder.
+### Approximate idea of Experiments for Neural Network folder. Although, the doc of detailed problem statements is also added in the folder.
 - Exp-1: Write any five programs based on python to refresh the concepts studied earlier.
 
 
